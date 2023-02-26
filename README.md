@@ -1,0 +1,2 @@
+# IoT-based-Smart-Thermostat-for-Home-Energy-Management-powered-by-Deep-Learning
+The idea of this project is to implement a Smart Thermostat with the help of IoT devices such as Atmega32 microcontrollers and minimize home energy consumptions. The idea is to also implement ML algorithms to make predictions to modify that temperature according to the requirements of the consumer and minimize energy consumptions. 
